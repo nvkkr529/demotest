@@ -1,0 +1,4 @@
+﻿  unittest1.cpp
+  LINK : C:\Users\Kiran\Desktop\New folder (2)\ConsoleApplication1\Debug\Test1.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\Kiran\Desktop\New folder (2)\ConsoleApplication1\Debug\Test1.lib and object C:\Users\Kiran\Desktop\New folder (2)\ConsoleApplication1\Debug\Test1.exp
+  Test1.vcxproj -> C:\Users\Kiran\Desktop\New folder (2)\ConsoleApplication1\Debug\Test1.dll
